@@ -1,0 +1,23 @@
+{
+  "name": "hack-ohio-2021",
+  "version": "1.0.0",
+  "description": "",
+  "main": "home.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jelly2011/Hack-Ohio-2021.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jelly2011/Hack-Ohio-2021/issues"
+  },
+  "homepage": "https://github.com/Jelly2011/Hack-Ohio-2021#readme",
+  "dependencies": {
+    "chart.js": "^3.6.0",
+    "express": "^4.17.1"
+  }
+}
